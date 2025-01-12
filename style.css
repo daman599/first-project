@@ -16,6 +16,9 @@ h2{
 h2:hover{
     text-shadow: 1px 20px 15px rgb(255, 255, 255);
 }
+#money:active{
+  color: rgb(144, 147, 238);
+}
 .select::selection{
     color:cyan;
 }
