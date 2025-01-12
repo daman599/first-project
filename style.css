@@ -16,6 +16,9 @@ h2{
 h2:hover{
     text-shadow: 1px 20px 15px rgb(255, 255, 255);
 }
+.select::selection{
+    color:cyan;
+}
 button{
     color:hsl(249, 72%, 85%);
     background-color: #b30b5c;
